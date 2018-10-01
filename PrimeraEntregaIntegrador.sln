@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraEntregaIntegrador", "PrimeraEntregaIntegrador\PrimeraEntregaIntegrador.csproj", "{152827A0-CF28-4511-A6F7-4700E2B739A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152827A0-CF28-4511-A6F7-4700E2B739A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152827A0-CF28-4511-A6F7-4700E2B739A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152827A0-CF28-4511-A6F7-4700E2B739A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152827A0-CF28-4511-A6F7-4700E2B739A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48088F51-D2DC-4D3C-B185-5E3D14A62CA5}
+	EndGlobalSection
+EndGlobal

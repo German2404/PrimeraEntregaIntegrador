@@ -1,0 +1,4 @@
+3 cliente 11/05/2016 0
+2 cliente 11/05/2016 0
+1 cliente 11/05/2016 0
+0 cliente 11/05/2016 0
